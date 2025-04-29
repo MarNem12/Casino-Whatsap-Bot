@@ -1,7 +1,7 @@
 {
-  "name": "SHABAN-MD",
+  "name": "𝗡𝗮𝘇𝗶𝗮 𝗛𝗮𝘀𝘀𝗮𝗻",
   "version": "3.0.0",
-  "description": "A WhatsApp Bot Created By MR-SHABAN",
+  "description": "A WhatsApp Bot Created By 𝗚𝗔𝗡𝗚𝗦𝗧𝗘𝗥 𝗖𝗔𝗦𝗜𝗡𝗢",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name SHABAN-MD",
